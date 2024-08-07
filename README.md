@@ -1,2 +1,3 @@
 # product-mastery
-Notes on how to build great product
+
+* Every screen should have a main CTA
