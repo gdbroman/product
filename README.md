@@ -1,4 +1,4 @@
-# Notes on building product
+# Notes on product development
 
 * Every screen should have a **main CTA**
   * Ask: *Where do I want my user's eyes to go?*'
