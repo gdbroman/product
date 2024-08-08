@@ -1,4 +1,4 @@
-# Product Thinking for Engineers
+# Product Thinking
 
 Notes on building great product, intended for software engineers.
 
@@ -13,11 +13,11 @@ Notes on building great product, intended for software engineers.
 * Don't over-simplify
   * Software engineering is a search for the simplest primitives and abstractions
   * Product development is about empathy and communicating to the end-user
-  * Just like in a speech, sometimes you need to repeat yourself twice or even thrice
+  * Just like in a speech, sometimes you need to repeat yourself twice or even thrice for the message to sink in
 * Don't over-systematize
   * If you're an engineer you'll want to systematize the design system
   * This is great in some cases, e.g. using consistent padding jumps and font sizes
-  * But 3 colors is not enough, you'll more likely need 20 in your palette, and many you will have to hand pick despite them "not making mathematical sense"
+  * But 3 colors is not enough, you'll likely need ~20 in your palette – and many will have to be hand-picked as opposed to mathematically derived
 
 ## Resources
 
