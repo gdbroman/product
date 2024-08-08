@@ -5,11 +5,11 @@ Notes on building great product, intended for software engineers.
 ## Notes
 
 * Every screen should have a **main CTA**
-  * Ask: where do I want my user to look?
+  * Ask: *Where do I want my user's eyes to go?*'
 * Every product should have a **magical moment**
-  * It's when your user goes *"Wow! Now I get it"* – ideally it's ASAP after signup/purchase
-  * For AirBnb it's entering the apartment with a greeting card and cookies waiting on the kitchen table
-  * Ask: What is my app's magical moment? How do I shorten the its timeline for first-time users?
+  * ASAP after signup or purchase a new user should have a moment of *"Wow! Now I get it'*
+  * For AirBnb, it's entering a clean apartment with a greeting card and cookies waiting on the kitchen table
+  * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * Don't over-simplify
   * Software engineering is a search for the simplest primitives and abstractions
   * Product development is about user empathy and communication
