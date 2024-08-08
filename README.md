@@ -12,8 +12,10 @@ Notes on building great product, intended for software engineers.
   * Ask: What is my app's magical moment? How do I shorten the its timeline for first-time users?
 * Don't over-simplify
   * Software engineering is a search for the simplest primitives and abstractions
-  * Product development is about empathy and communicating to the end-user
-  * Just like in a speech, sometimes you need to repeat yourself twice or even thrice for the message to sink in
+  * Product development is about user empathy and communication
+  * Just like in a speech, sometimes you need to repeat yourself twice or thrice for the message to sink in
+  * Do ruthlessly deprioritize features that don't add value
+  * But don't be afraid to add complexity or "UX redundancy" if it helps the user understand your product
 * Don't over-systematize
   * If you're an engineer you'll want to systematize the design system
   * This is great in some cases, e.g. using consistent padding jumps and font sizes
