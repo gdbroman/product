@@ -1,4 +1,8 @@
-# Product Tips for Software Engineers
+# Product
+
+Notes on building product, intended for software engineers.
+
+## Notes
 
 * Every screen should have a main CTA
   * Ask: where do I want my user to look?
