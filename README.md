@@ -1,8 +1,4 @@
-# Product Thinking
-
-Notes on building great product, intended for software engineers
-
-## Notes
+# Notes on building product
 
 * Every screen should have a **main CTA**
   * Ask: *Where do I want my user's eyes to go?*'
@@ -22,7 +18,3 @@ Notes on building great product, intended for software engineers
   * But 3 colors is not enough, you'll likely need ~20 in your palette – and many will have to be hand-picked as opposed to mathematically derived
 * Consumer apps are arrived at through a shit ton of experiments
   * Develop a conclusive testing habit so you can navigate with conviction
-
-## Resources
-
-* https://goodui.org
