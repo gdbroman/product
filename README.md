@@ -1,6 +1,6 @@
 # Product Tips for Engineers
 
-Notes on building great product, intended for software engineers.
+Notes on building product, intended for software engineers.
 
 ## Notes
 
