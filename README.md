@@ -15,6 +15,6 @@
 * Don't over-systematize design
   * If you're an engineer you'll want to systematize the design system
   * This is great in some cases, e.g. using consistent padding jumps and font sizes
-  * But 3 colors is not enough, you'll likely need ~20 in your palette – and many will have to be hand-picked as opposed to mathematically derived
+  * But 3 colors is not enough, you'll more likely need ~20 in your palette, and many will have to be hand-picked as opposed to mathematically derived
 * Consumer apps are arrived at through a shit ton of experiments
   * Develop a conclusive testing habit so you can navigate with conviction
