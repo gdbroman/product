@@ -2,6 +2,10 @@
 
 * Every screen should have a main CTA
   * Ask: where do I want my user to look?
+* Every product should have a magical moment
+  * It's that moment where your user goes "Wow! Now I get it", ideally the user gets to experience it ASAP
+  * For AirBnb it's entering the apartment with a greeting card and cookies waiting on the kitchen table
+  * Ask: What is the magical moment for my app? How do I make my user experience it as fast as possible? 
 * Don't over-simplify
   * Software engineering is a search for the simplest primitives and abstractions
   * Product development is about empathy and communicating to the end-user
