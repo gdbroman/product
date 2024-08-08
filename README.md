@@ -1,6 +1,6 @@
-# Product
+# Product Thinking for Engineers
 
-Notes on building product, intended for software engineers.
+Notes on building great product, intended for software engineers.
 
 ## Notes
 
