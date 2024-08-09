@@ -3,7 +3,7 @@
 * Every screen should have a **main CTA**
   * Ask: *Where do I want my user's eyes to go?*'
 * Every product should have a **magical moment**
-  * ASAP after signup or purchase a new user should have a moment of *"Wow! Now I get it'*
+  * ASAP after signup or purchase a new user should feel *"Wow! Now I get it'*
   * For AirBnb, it's entering a clean apartment with a greeting card and cookies waiting on the kitchen table
   * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * Don't over-simplify features
