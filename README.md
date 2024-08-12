@@ -3,8 +3,8 @@
 * Every screen should have a **main CTA**
   * Ask: *Where do I want my user's eyes to go?*'
 * Every product should have a **magical moment**
-  * ASAP after signup or purchase a new user should feel *"Wow! Now I get it'*
-  * For AirBnb, it's entering a clean apartment with a greeting card and cookies waiting on the kitchen table
+  * New users should feel *"Wow! Now I get it'* ASAP after signup/purchase
+  * Example: for AirBnb it's entering a clean apartment with a greeting card & cookies waiting on the kitchen table
   * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * Don't over-simplify features
   * Software engineering is a search for the simplest primitives and abstractions
