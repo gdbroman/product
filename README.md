@@ -11,7 +11,7 @@
   * Product development is about user empathy and communication
   * Just like in a speech you sometimes need to repeat yourself twice or even thrice for the message to sink in
   * Do ruthlessly deprioritize features that don't add value
-  * But don't be afraid to add complexity or "UX redundancy" if it helps the user understand your product
+  * But don't be afraid to add complexity or "UX redundancy" (e.g. a signup btn in 2 places) if it helps the user understand your product
 * Don't over-systematize design
   * If you're an engineer you'll want to systematize the design system
   * This is great in some cases, e.g. using consistent padding jumps and font sizes
