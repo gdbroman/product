@@ -4,7 +4,7 @@
   * Ask: *Where do I want my user's eyes to go?*'
 * Every product should have a **magical moment**
   * New users should feel *"Wow! Now I get it'* ASAP after signup/purchase
-  * Example: for AirBnb it's being greeted with a welcome card & cookies waiting on the kitchen table
+  * For example being greeted with cookies on the kitchen table in your freshly cleaned Airbnb
   * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * Don't apply DRY to UX (it isn't code) 
   * Software engineering is a search for the simplest primitives and abstractions
