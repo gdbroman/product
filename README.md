@@ -8,7 +8,7 @@ Notes on building great product, intended for software engineers
   * Ask: *Where do I want my user's eyes to go?*'
 * Every product should have a **magical moment**
   * ASAP after signup or purchase a new user should have a moment of *"Wow! Now I get it'*
-  * For AirBnb, it's entering a clean apartment with a greeting card and cookies waiting on the kitchen table
+  * For example being greeted with cookies on the kitchen table in your freshly cleaned Airbnb
   * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * Don't over-simplify
   * Software engineering is a search for the simplest primitives and abstractions
