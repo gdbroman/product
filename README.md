@@ -16,4 +16,6 @@
   * This is great in some cases, e.g. utility classes for consistent padding jumps and font sizes
   * But you'll likely more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
 * Consumer apps are arrived at through a **shit-ton of experiments**
-  * Develop a conclusive testing habit so you can navigate with conviction
+  * Make it easy to experiment
+  * Run conclusive experiments
+  * Navigate with conviction
