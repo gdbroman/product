@@ -13,11 +13,11 @@
 4. **Don't apply DRY to UX – it isn't code**
     * Software engineering is a search for the simplest primitives and abstractions, product development is about user empathy and communication
     * Just like in speech, you sometimes need to repeat yourself twice or thrice for the message to sink in
-    * Do ruthlessly deprioritize features that don't add value, but don't be afraid to add complexity or "UX redundancy" (e.g. a signup btn at the top and the bottom of the same screen) if it increases conversion or helps your user understand the product
+    * Do ruthlessly deprioritize features that don't add value, but don't be afraid to add complexity or "UX redundancy" (e.g. a signup btn at the top and the bottom of the same screen), if it increases conversion or helps your user understand your product
 5. **Don't over-systematize design**
-    * If you're an engineer you'll want to systematize the design system
-    * This is great in some cases, e.g. utility classes for consistent padding jumps and font sizes
-    * But you'll likely more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
+    * If you're an engineer you'll be tempted to systematize the design system
+    * This is great in some cases, e.g. using utility classes for consistent padding and font size jumps
+    * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
 6. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive experiments
