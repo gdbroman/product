@@ -18,7 +18,10 @@
     * If you're an engineer you'll be tempted to systematize the design system
     * This is great in some cases, e.g. using utility classes for consistent padding and font size jumps
     * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
-6. **Consumer apps are arrived at through a shit-ton of experiments**
+6. Problem first, solution second, aesthetics third
+    * The problem you're solving matters more than how you solve it, and how you solve it matters more than how the solution looks
+    * But aesthetics still matter, especially in consumer apps
+7. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive experiments
     * Navigate with conviction
