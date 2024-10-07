@@ -6,7 +6,7 @@
     * Think of the FaceBook like button – just a button, but super pivotal
 2. **Problem first, solution second, aesthetics third**
     * The problem you're solving matters more than how you solve it, and how you solve it matters more than how your solution looks
-    * SaaS is like the screwdriver market, while social apps are more like clothing—functional, but users care about look and feel too
+    * SaaS are like screwdrivers while social apps are like clothing—function matters, but users care about look and feel too
 3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
 4. **Magical moment**
