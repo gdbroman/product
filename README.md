@@ -3,7 +3,7 @@
 1. **Big features can have a small footprint**
     * When having the idea for a new feature, do not give way to excitement
     * The first iteration is never correct – and often too brazen
-    * Think the FB like button – just a button, but super valuable
+    * Think of the FaceBook like button – just a button, but super pivotal
 2. **Every screen should have a main CTA**
     * Ask: *Where do I want my user's eyes to go?*'
 3. **Every product should have a magical moment**
