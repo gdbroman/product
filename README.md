@@ -4,7 +4,10 @@
     * When having the idea for a new feature, do not give way to excitement
     * The first iteration is never correct – and often too brazen
     * Think of the FaceBook like button – just a button, but super pivotal
-2. **Main CTA**
+2. **Problem first, solution second, aesthetics third**
+    * The problem you're solving matters more than how you solve it, and how you solve it matters more than how your solution looks
+    * SaaS is like the screwdriver market, while social apps are more like clothing—functional, but users care about look and feel too
+3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
 4. **Magical moment**
     * New users should "get it" as soon as possible after signup/purchase
@@ -18,10 +21,7 @@
     * If you're an engineer you'll be tempted to systematize the design system
     * This is great in some cases, e.g. using utility classes for consistent padding and font size jumps
     * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
-7. **Problem first, solution second, aesthetics third**
-    * The problem you're solving matters more than how you solve it, and how you solve it matters more than how your solution looks
-    * SaaS is like the screwdriver market, while social apps are more like clothing—functional, but users care about look and feel too
-8. **Consumer apps are arrived at through a shit-ton of experiments**
+7. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive tests
     * Navigate with conviction
