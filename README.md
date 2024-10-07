@@ -20,8 +20,8 @@
     * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
 6. Problem first, solution second, aesthetics third
     * The problem you're solving matters more than how you solve it, and how you solve it matters more than how the solution looks
-    * But aesthetics still matter, especially in consumer apps
-    * The SaaS market is kind of like the screwdriver market, whereas the consumer app market is more like the clothing market – function still plays a role, but the users care a lot more about look and feel
+    * But aesthetics still matter, especially in social apps
+    * The SaaS market is kind of like the screwdriver market, whereas the social app market is more like the clothing market – function still plays a role, but the users care a lot more about look and feel
 7. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive experiments
