@@ -8,8 +8,8 @@
   * Ask: *What is my app's magical moment and how do I make it near-instant?*
 * **Big features can have a small footprint**
   * When having the idea for a new feature, do not give way to excitement
-  * The first iteration is never correct, and often too brazen
-  * Think the FB like button – just a button, super valuable
+  * The first iteration is never correct – and often too brazen
+  * Think the FB like button – just a button, but super valuable
 * **Don't apply DRY to UX – it isn't code**
   * Software engineering is a search for the simplest primitives and abstractions, product development is about user empathy and communication
   * Just like in speech, you sometimes need to repeat yourself twice or thrice for the message to sink in
