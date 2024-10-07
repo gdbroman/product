@@ -20,7 +20,7 @@
     * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
 6. Problem first, solution second, aesthetics third
     * The problem you're solving matters more than how you solve it, and how you solve it matters more than how the solution looks
-    * SaaS is like the screwdriver market—mostly about function, whereas social apps are more like clothing—users care about look and feel
+    * SaaS is like the screwdriver market, whereas social apps are more akin to clothing—functional, but users care about look and feel too
 7. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive experiments
