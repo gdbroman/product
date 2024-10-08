@@ -12,7 +12,7 @@
 4. **Mobile CTAs should be bigger**
     * The thumb is less precise than the mouse, so buttons should oftentimes be made *bigger* on mobile screens, not smaller
 5. **Mobile first**
-    * ~70% of internet traffic is mobile, so this will probably be the breakdown for your app's traffic as well
+    * ~70% of internet traffic is mobile, so this will probably be the traffic breakdown for your app as well
     * Develop your app inside of a mobile browser view or iPhone simulator
 6. **Magical moment**
     * New users should "get it" as soon as possible after signup/purchase
