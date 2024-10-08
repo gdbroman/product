@@ -1,5 +1,9 @@
 # Notes on product development
 
+*A living document where I'm writing down lessons on product development, user experience, and user interface design. Mostly relevant for consumer apps.*
+
+---
+
 1. **Big features can have a small footprint**
     * When having the idea for a new feature, do not give way to excitement
     * The first iteration is never correct – and often too brazen
