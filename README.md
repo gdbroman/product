@@ -9,7 +9,7 @@
     * The first iteration is never correct – and often too brazen
     * Think of the FaceBook like button – just a button, but super pivotal
 2. **Problem first, solution second, aesthetics third**
-    * The problem you're solving matters more than how you solve it, and how you solve it matters more than how your solution looks
+    * The problem you're solving matters more than how you solve it, and how you solve it matters more than what your solution looks like
     * SaaS are like screwdrivers while social apps are like clothing—function matters, but users care about look and feel too
 3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
