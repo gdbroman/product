@@ -9,19 +9,24 @@
     * SaaS are like screwdrivers while social apps are like clothing—function matters, but users care about look and feel too
 3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
-4. **Magical moment**
+4. **Mobile CTAs should be bigger**
+    * The thumb is less precise than the mouse, so buttons should oftentimes be *bigger* on mobile screens, not smaller
+5. **Mobile first**
+    * ~70% of internet traffic is mobile, so this will probably be the breakdown for your app's traffic as well
+    * Develop your app inside of a mobile browser view or iPhone simulator
+6. **Magical moment**
     * New users should "get it" as soon as possible after signup/purchase
     * For example, being greeted with cookies on the kitchen table in your freshly cleaned AirBnb
     * Ask: *What is my app's magical moment and how do I make it near-instant?*
-5. **Avoid DRY**
+7. **Avoid DRY**
     * Software engineering is a search for simple primitives and abstractions, product development is more about user empathy and communication
     * For example, don't be afraid to add a signup button at both the top and the bottom of the same screen if it increases conversion or helps your users understand your product
     * Just like in speech, you sometimes need to repeat yourself twice or thrice for the message to sink in
-6. **Avoid over-systematizing design**
+8. **Avoid over-systematizing design**
     * If you're an engineer you'll be tempted to systematize the design system
     * This is great in some cases, e.g. using utility classes for consistent padding and font size jumps
     * But you'll likely need more than 3 colors, many of which will have to be hand-picked as opposed to mathematically derived
-7. **Consumer apps are arrived at through a shit-ton of experiments**
+9. **Consumer apps are arrived at through a shit-ton of experiments**
     * Make it fun and easy to experiment
     * Run conclusive tests
     * Navigate with conviction
