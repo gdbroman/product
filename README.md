@@ -1,13 +1,13 @@
 # Notes on product development
 
-*A living document where I'm writing down lessons on product development, user experience, and user interface design. Mostly relevant for consumer apps.*
+*A living document for lessons in product development, user experience, and user interface design. Mostly relevant for consumer apps.*
 
 ---
 
 1. **Big features can have a small footprint**
-    * When having the idea for a new feature, do not give way to excitement
+    * When having an idea for a new feature, do not give way to excitement
     * The first iteration is never correct – and often too brazen
-    * Think of the FaceBook like button – just a button, but super pivotal
+    * Think of the Facebook like button – small user-facing footprint, but super pivotal
 2. **Problem first, solution second, aesthetics third**
     * The problem you're solving matters more than how you solve it, and how you solve it matters more than what your solution looks like
     * SaaS are like screwdrivers while social apps are like clothing—function matters, but users care about look and feel too
