@@ -9,15 +9,15 @@
     * The first iteration is never correct – and often too brazen
     * Think of the Facebook like button – small user-facing footprint, but super pivotal
 2. **Problem first, solution second, aesthetics third**
-    * The problem you're solving matters more than how you solve it, and how you solve it matters more than what your solution looks like
-    * SaaS are like screwdrivers while social apps are like clothing—function matters, but users care about look and feel too
+    * The problem you're solving matters more than how you solve it, and how you solve it matters more than how it's presented
+    * SaaS are like screwdrivers while social apps are more like clothing—function matters, but users care about look and feel too
 3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
 4. **Mobile CTAs should be bigger**
-    * The thumb is less precise than the mouse, so buttons should oftentimes be made *bigger* on mobile screens, not smaller
+    * The thumb is less precise than the mouse, so buttons should oftentimes be made *bigger* on mobile, not smaller
 5. **Mobile first**
-    * ~70% of internet traffic is mobile, so this will probably be the traffic breakdown for your app as well
-    * Develop your app inside of a mobile browser view or iPhone simulator
+    * ~70% of internet traffic is mobile, your app will most likely have a similar breakdown
+    * Develop your app inside of a mobile view/iPhone simulator
 6. **Magical moment**
     * New users should "get it" as soon as possible after signup/purchase
     * For example, being greeted with cookies on the kitchen table in your freshly cleaned AirBnb
