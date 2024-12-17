@@ -13,8 +13,8 @@
     * SaaS are like screwdrivers while social apps are more like clothing—function matters, but users care about look and feel too
 3. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
-4. **Mobile CTAs should be bigger**
-    * The thumb is less precise than the mouse, so buttons should oftentimes be made *bigger* on mobile, not smaller
+4. **Mobile CTAs can be bigger**
+    * The thumb is less precise than the mouse, so if the layout allows it, buttons can oftentimes be made *bigger* on mobile, not smaller
 5. **Mobile first**
     * ~70% of internet traffic is mobile, your app will most likely have a similar breakdown
     * Develop your app inside of a mobile view/iPhone simulator
