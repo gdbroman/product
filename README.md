@@ -23,7 +23,7 @@
     * For example, being greeted with cookies on the kitchen table in your freshly cleaned AirBnb
     * Ask: *What is my app's magical moment and how do I make it near-instant?*
 7. **Avoid applying DRY to UX**
-    * Software engineering is a search for simple primitives and abstractions, product development is more about user empathy and communication
+    * Software engineering is a search for simple primitives and abstractions whereas product development is more about having empathy and clear communication
     * For example, don't be afraid to add a signup button at both the top and the bottom of the same screen if it increases conversion or helps your users understand your product
     * Just like in speech, you sometimes need to repeat yourself twice or thrice for the message to sink in
 8. **Avoid over-systematizing design**
