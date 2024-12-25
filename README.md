@@ -6,8 +6,8 @@
 
 1. **Main CTA**
     * For each screen, ask: *Where do I want my user's eyes to go?*'
-2. **The opengraph preview matters most for CTR on web**
-    * For web apps the opengraph preview image is like the video thumbnail on YouTube – it's the longest lever for increasing CTR
+2. **The opengraph preview is crucial for CTR on web**
+    * For web apps the opengraph preview image is like the video thumbnail on YouTube – it's the longest lever for increasing the click-through rate on X, or any platform that allows embeddings
     * For iOS apps it's the app store icon
 3. **Big features can have a small footprint**
     * When having an idea for a new feature, do not give way to excitement
