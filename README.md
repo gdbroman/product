@@ -1,6 +1,6 @@
 # Notes on product development
 
-*A living document for lessons in product development, user experience, and user interface design. Mostly relevant for consumer apps.*
+*A living document for lessons in product development, user experience design, and growth. Mostly relevant for consumer apps.*
 
 ---
 
